@@ -90,7 +90,10 @@ To ruch dla ludzi, którzy chcą być **świadomymi użytkownikami internetu**, 
 10. 🤖 **Algorytm nie zwalnia z odpowiedzialności.**  
 11. 🕰️ **Internet pamięta dłużej niż emocje.**
 
+## 📄 Licencja
 
+Ten projekt jest udostępniony na licencji **Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)**.  
+Możesz kopiować, modyfikować i rozpowszechniać treści, pod warunkiem zachowania autorstwa i tej samej licencji.
 
 ## 💛 Dołącz do Cyberpszczoły
 
