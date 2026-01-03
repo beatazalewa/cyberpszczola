@@ -1,5 +1,7 @@
 # 💼 Netykieta w Komunikacji Biznesowej / Netiquette in Business Communication
 
+> 🌍 **Language / Język:** [🇵🇱 Polski](#-wersja-polska) | [🇬🇧 English](#-english-version)
+
 ---
 
 ## 🇵🇱 Wersja Polska

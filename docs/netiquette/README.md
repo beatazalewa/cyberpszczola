@@ -1,5 +1,7 @@
 # 📜 Netykieta - Zasady Kultury w Sieci / Netiquette - Rules of Online Culture
 
+> 🌍 **Language / Język:** [🇵🇱 Polski](#-wersja-polska) | [🇬🇧 English](#-english-version)
+
 ---
 
 ## 🇵🇱 Wersja Polska

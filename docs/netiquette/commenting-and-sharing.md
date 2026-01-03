@@ -1,5 +1,7 @@
 # 💭 Komentowanie i Udostępnianie Treści / Commenting and Content Sharing
 
+> 🌍 **Language / Język:** [🇵🇱 Polski](#-wersja-polska) | [🇬🇧 English](#-english-version)
+
 ---
 
 ## 🇵🇱 Wersja Polska

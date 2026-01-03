@@ -1,5 +1,7 @@
 # 📱 Netykieta w Mediach Społecznościowych / Netiquette on Social Media
 
+> 🌍 **Language / Język:** [🇵🇱 Polski](#-wersja-polska) | [🇬🇧 English](#-english-version)
+
 ---
 
 ## 🇵🇱 Wersja Polska

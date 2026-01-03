@@ -1,5 +1,7 @@
 # 🌟 Główne Zasady Netykiety / Main Netiquette Rules
 
+> 🌍 **Language / Język:** [🇵🇱 Polski](#-wersja-polska) | [🇬🇧 English](#-english-version)
+
 ---
 
 ## 🇵🇱 Wersja Polska
