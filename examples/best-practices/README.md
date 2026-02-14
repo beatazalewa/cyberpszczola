@@ -33,3 +33,17 @@ Examples of good practices in online communication, exemplary responses to diffi
 - Conflict de-escalation methods
 
 🔗 *Examples will be added continuously*
+
+---
+
+## 🎉 Play / Zabawa
+
+If you want a tiny, harmless easter-egg: run the bee display script included in this repository. It simply prints an ASCII bee in your terminal.
+Run:
+
+```bash
+chmod +x ../../scripts/bee-fun.sh  # tylko raz, by nadać prawa do uruchomienia
+./../../scripts/bee-fun.sh
+```
+
+The script is manual and safe — nothing is sent anywhere and nothing runs automatically.
