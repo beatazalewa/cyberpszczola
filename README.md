@@ -4,6 +4,7 @@
 > - [🇵🇱 Polski](README.pl.md)  
 > - [🇬🇧 English](README.en.md)
 
+New comment
 ---
 
 ![Cyberpszczoła - logo](https://github.com/beatazalewa/cyberpszczola/blob/main/images/logo.png)
