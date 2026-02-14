@@ -29,3 +29,5 @@ Projekt zakłada **napisanie zasad Netykiety od nowa**, dostosowanych do realió
 The project involves **rewriting the rules of Netiquette from scratch**, adapted to the realities of modern social media, AI and algorithms, and instant reaction culture.
 
 🐝 **[Read more in English →](README.en.md)**
+
+### I Love Honey ###
