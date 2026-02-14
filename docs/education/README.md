@@ -2,8 +2,19 @@
 
 > 🌍 **Language / Język:** [🇵🇱 Polski](#-wersja-polska) | [🇬🇧 English](#-english-version)
 
----
-
+<!--
+ szerszeń w gnieździe
+  \         /
+                  \  ___  /
+               ---==(   )==---
+                  /  ^  \
+                 /   |   \
+           _____/    |    \_____
+          /           |          \
+         /    \       |       /    \
+        /      \_____/ \_____/      \
+               (_____) (_____)
+            -->
 ## 🇵🇱 Wersja Polska
 
 Materiały edukacyjne dostosowane do różnych grup odbiorców.
