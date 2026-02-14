@@ -31,3 +31,4 @@ The project involves **rewriting the rules of Netiquette from scratch**, adapted
 🐝 **[Read more in English →](README.en.md)**
 
 ### I Love Honey ###
+### sth else ###
